@@ -46,3 +46,4 @@ so we can continue to use mocha&chai, and making the centora tests easier to int
 - test all existing scenarios and make sure that they run (progress 0/???)
 - switch the printer to use the hardhat error printer and related
 - fix that weird promise{thing} that is appearing whenever i send a command im sorry :(
+- go through all the jsonrpc because im pretty sure some of it is wrong and not updated either
