@@ -14,12 +14,18 @@ or
 
 
 hre.repl.line(`
+
   Command
+
   Command2
+
   Command3
+
   Etc
+
   Etc
-`)
+
+  `)
 
 very incomplete
 
