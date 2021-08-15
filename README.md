@@ -13,7 +13,7 @@ hre.repl.line(`Command`)
 or
 
 
-hre.repl.line(`
+hre.repl.lines(`
 
   Command
 
