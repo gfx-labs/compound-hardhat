@@ -15,9 +15,9 @@ e.g. require("plugin/dist/index")
 
 i took the scenario repl runner thing out of the compound repo
 
-i then replaced all uses of ganache with the compound network,
+i then replaced uses of ganache with the compound network,
 
-all calls to truffle/saddle with hardhat
+and alls to truffle/saddle with hardhat
 
 and am also using hardhat to get artifacts
 
